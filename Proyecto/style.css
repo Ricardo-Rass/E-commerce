@@ -1,0 +1,68 @@
+.navbar{
+    background-color: #0A0909   ;
+}
+
+.nav-link{
+    color: white;
+}
+
+.s{
+    background-color: #1B1B1B;
+    padding-left: 12%;
+    padding-right: 12%;
+    padding-top: 2%;
+    padding-bottom: 4%;
+    
+    
+    
+}
+
+.Carrito_Espacio{
+    align-items: center;
+    
+}
+
+h1{
+    padding-left: 2%;
+    padding-top: 2%;
+    background-color: #1B1B1B;
+    color: white;
+}
+#carrito{
+    background-color: #5D5B5B ;
+    color: white;
+}
+
+.Carrito_Espacio{
+    margin-top: 3%;
+    margin-left: 25%;
+    background-color: #5D5B5B ;
+}
+
+.nav-link{
+    font-size: 25px;
+}
+
+p{
+    font-size: 18px;
+}
+
+.ca{
+    background-color: #5D5B5B ;
+    padding-bottom: 3%;
+}
+
+.total{
+    padding-left: 30%;
+    color: white;
+}
+
+.col-md-4{
+    padding-right: 5%;
+}
+
+.cards{
+    background-color: white;
+    padding: 1.2%;
+    border-radius: .5%;
+}
